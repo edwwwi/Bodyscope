@@ -1,0 +1,11 @@
+torch
+torchvision
+opencv-python
+PyYAML
+tqdm
+pandas
+seaborn
+matplotlib
+roboflow
+timm
+requests
